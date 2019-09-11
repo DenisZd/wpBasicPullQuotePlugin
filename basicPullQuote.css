@@ -1,0 +1,36 @@
+/************************************
+ * https://github.com/DenisZd/wpBasicPullQuotePlugin
+ * version α
+ *
+ * Denis Zdanovsky
+ * https://www.istaridevelopment.com
+ *
+ *  Basic Pull Quotes
+ *
+ ************************************
+*/
+
+.istariPullQuote
+{
+	width: 100px;
+	font-weight: bold;
+	text-style: italic;
+	font-size: 1.5rem;
+	padding: 13px;
+	margin: 0 13px 13px 0;
+}
+
+.istariPullQuote--left
+{
+	float: left;
+}
+
+.istariPullQuote--right
+{
+	float: right;
+}
+
+.istariPullQuote__blockquote
+{
+	margin: 0;
+}
